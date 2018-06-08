@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lusty-request-pattern"
-version = "0.2-0"
+version = "0.3-0"
 -- LuaDist source
 source = {
-  tag = "0.2-0",
+  tag = "0.3-0",
   url = "git://github.com/LuaDist-testing/lusty-request-pattern.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/Olivine-Labs/lusty-request-pattern/archive/v0.2.tar.gz",
---   dir = "lusty-request-pattern-0.2"
+--   url = "https://github.com/Olivine-Labs/lusty-request-pattern/archive/v0.3.tar.gz",
+--   dir = "lusty-request-pattern-0.3"
 -- }
 description = {
   summary = "Lusty plugin for handling requests with a lua file for a pattern.",
